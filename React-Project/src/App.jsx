@@ -1,8 +1,11 @@
 import React from 'react'
+import Task from './components/Day1/Task'
 
 const App = () => {
   return (
-    <div>App</div>
+    <div>
+      <Task/>
+    </div>
   )
 }
 
